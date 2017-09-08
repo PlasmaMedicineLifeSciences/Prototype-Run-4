@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=CN4-3
+Added Pin To Net: NetName=NetC6_1 Pin=U2-1
+Added Room: Name=Top Sheet_Power System
+Added Room: Name=U_Boost Converter Circuit
+Added Room: Name=U_EMI Filter
+Added Room: Name=U_MOSFET Driver

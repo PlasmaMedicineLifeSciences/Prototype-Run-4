@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R12 Old Footprint=RES2512 New Footprint=Current Sense Wire
+Added Room: Name=U_Boost Converter Circuit
+Added Room: Name=U_EMI Filter

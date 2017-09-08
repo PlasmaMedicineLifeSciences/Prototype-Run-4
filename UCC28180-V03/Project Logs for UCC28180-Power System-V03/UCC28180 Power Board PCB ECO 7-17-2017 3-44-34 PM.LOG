@@ -1,0 +1,6 @@
+Added Component: Designator=R12(Wire-Sense)
+Added Pin To Net: NetName=NetD6_2 Pin=R12-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R12-2
+Added Member To Class: ClassName=U_Boost Converter Circuit Member=Component R12 CRCWRSHUNT
+Added Room: Name=U_Boost Converter Circuit
+Added Room: Name=U_EMI Filter

@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[UCC28180 Power Board.GTL]
+   Generated File[UCC28180 Power Board.GBL]
+   Generated File[UCC28180 Power Board.GTO]
+   Generated File[UCC28180 Power Board.GTP]
+   Generated File[UCC28180 Power Board.GTS]
+   Generated File[UCC28180 Power Board.GBS]
+   Generated File[UCC28180 Power Board.GBP]
+   Generated File[UCC28180 Power Board.GBO]
+   Generated File[UCC28180 Power Board.GM1]
+   Generated File[UCC28180 Power Board.GM10]
+   Generated File[UCC28180 Power Board.GM13]
+   Generated File[UCC28180 Power Board.GM15]
+   Generated File[UCC28180 Power Board.RUL]
+   Generated File[UCC28180 Power Board.EXTREP]
+   Generated File[UCC28180 Power Board.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 10:12:37 AM On 7/19/2017

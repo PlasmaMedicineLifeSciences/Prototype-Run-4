@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=V_FEEDBACK Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=TP2-1
+Removed Pin From Net: NetName=V_FEEDBACK Pin=U1-3
+Change Component Designator: OldDesignator=C NewDesignator=C9
+Added Pin To Net: NetName=I_FEEDBACK Pin=C4-2
+Added Pin To Net: NetName=12V Pin=CN1-1
+Added Pin To Net: NetName=NetC_2 Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=I_FEEDBACK Pin=U1-3
+Change Net Name : Old Net Name=12V New Net Name=VCC
+Change Net Name : Old Net Name=NetC_2 New Net Name=NetC9_2
+Added Room: Name=SS-1

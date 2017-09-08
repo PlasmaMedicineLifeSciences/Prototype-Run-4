@@ -1,0 +1,88 @@
+Added Component: Designator=C1(CAP0603)
+Added Component: Designator=C2(CAP0603)
+Added Component: Designator=C3(CAP0603)
+Added Component: Designator=C4(CAP0603)
+Added Component: Designator=C5(CAP0603)
+Added Component: Designator=C6(CAP0805)
+Added Component: Designator=C7(CAP0603)
+Added Component: Designator=C8(CAP1206)
+Added Component: Designator=CN1(MHR10N-ND)
+Added Component: Designator=C(CAP0603)
+Added Component: Designator=R1(RES0603)
+Added Component: Designator=R3(CAP0603)
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP3(TP-Slot)
+Added Component: Designator=TP4(TP-SM)
+Added Component: Designator=TP5(Test Point)
+Added Component: Designator=TP6(Test Point)
+Added Component: Designator=U1(SOP127P600X175-8N)
+Added Pin To Net: NetName=12V Pin=C7-1
+Added Pin To Net: NetName=12V Pin=C8-2
+Added Pin To Net: NetName=12V Pin=TP4-1
+Added Pin To Net: NetName=12V Pin=U1-7
+Added Net: Name=12V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=GT_DRV Pin=CN1-2
+Added Pin To Net: NetName=GT_DRV Pin=CN1-2
+Added Pin To Net: NetName=GT_DRV Pin=TP1-1
+Added Pin To Net: NetName=GT_DRV Pin=TP1-1
+Added Pin To Net: NetName=GT_DRV Pin=U1-8
+Added Pin To Net: NetName=GT_DRV Pin=U1-8
+Added Net: Name=GT_DRV
+Added Pin To Net: NetName=I_FEEDBACK Pin=C4-2
+Added Pin To Net: NetName=I_FEEDBACK Pin=CN1-10
+Added Pin To Net: NetName=I_FEEDBACK Pin=CN1-10
+Added Pin To Net: NetName=I_FEEDBACK Pin=TP5-1
+Added Pin To Net: NetName=I_FEEDBACK Pin=TP5-1
+Added Pin To Net: NetName=I_FEEDBACK Pin=U1-3
+Added Net: Name=I_FEEDBACK
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-5
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R3-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC_2 Pin=C-2
+Added Pin To Net: NetName=NetC_2 Pin=R1-1
+Added Pin To Net: NetName=NetC_2 Pin=U1-2
+Added Net: Name=NetC_2
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Net: Name=NetCN1_3
+Added Pin To Net: NetName=SW_FREQ Pin=C5-2
+Added Pin To Net: NetName=SW_FREQ Pin=U1-4
+Added Net: Name=SW_FREQ
+Added Pin To Net: NetName=V_FEEDBACK Pin=C2-2
+Added Pin To Net: NetName=V_FEEDBACK Pin=C2-2
+Added Pin To Net: NetName=V_FEEDBACK Pin=C4-2
+Added Pin To Net: NetName=V_FEEDBACK Pin=CN1-9
+Added Pin To Net: NetName=V_FEEDBACK Pin=CN1-9
+Added Pin To Net: NetName=V_FEEDBACK Pin=TP6-1
+Added Pin To Net: NetName=V_FEEDBACK Pin=TP6-1
+Added Pin To Net: NetName=V_FEEDBACK Pin=U1-3
+Added Pin To Net: NetName=V_FEEDBACK Pin=U1-6
+Added Pin To Net: NetName=V_FEEDBACK Pin=U1-6
+Added Net: Name=V_FEEDBACK
+Added Pin To Net: NetName=VCC Pin=CN1-1
+Added Pin To Net: NetName=VCC Pin=CN1-1
+Added Net: Name=VCC
+Added Class: Name=SS-1
+Added Room: Name=SS-1

@@ -1,0 +1,14 @@
+Added Component: Designator=C25(CAP1210)
+Added Component: Designator=C26(CAP0603)
+Added Pin To Net: NetName=NetC6_1 Pin=C25-2
+Added Pin To Net: NetName=NetC6_1 Pin=C26-2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=VCC
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=C26-1
+Added Net: Name=NetC25_1
+Added Member To Class: ClassName=U_MOSFET Driver Member=Component C25 GRM32RR71H105KA01K
+Added Member To Class: ClassName=U_MOSFET Driver Member=Component C26 06035C104KAT2A
+Added Room: Name=Top Sheet_Power System
+Added Room: Name=U_Boost Converter Circuit
+Added Room: Name=U_EMI Filter
+Added Room: Name=U_MOSFET Driver

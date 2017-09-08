@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UCC28180-Controller.PrjPcb]
+   Generated File[UCC28180-Controller-RoundHoles.TXT]
+   Generated File[UCC28180-Controller-SlotHoles.TXT]
+   Generated File[UCC28180-Controller.LDP]
+   Generated File[UCC28180-Controller.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:48:43 AM On 7/19/2017

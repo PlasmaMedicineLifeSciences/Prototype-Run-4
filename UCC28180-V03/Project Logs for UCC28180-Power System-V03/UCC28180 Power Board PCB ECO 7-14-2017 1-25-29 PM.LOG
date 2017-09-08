@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=TP5-1
+Removed Member From Class: ClassName=Top Sheet_Power System Member=TP5
+Added Room: Name=U_Boost Converter Circuit

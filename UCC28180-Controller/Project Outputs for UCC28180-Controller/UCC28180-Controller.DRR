@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UCC28180-Controller.PcbDoc   7/19/2017  10:48:43 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UCC28180-Controller-RoundHoles.TXT
+ASCII SlotHoles File : UCC28180-Controller-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T2      30mil (0.762mm)                                           Round             2         PTH        0.47inch (11.97mm)
+T3      39mil (1mm)                                               Round             10        PTH        0.90inch (22.86mm)
+T4      67mil (1.7mm)                                             Round             4         PTH        1.27inch (32.17mm)
+T5      98mil (2.5mm)                                             Slot              1         PTH        0.30inch (7.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              18
+
+Total Processing Time (hh:mm:ss) : 00:00:00

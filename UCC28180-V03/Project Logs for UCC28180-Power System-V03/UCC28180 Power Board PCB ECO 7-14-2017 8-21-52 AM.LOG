@@ -1,0 +1,10 @@
+Added Component: Designator=L1(8113-RC)
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=EARTH Pin=L1-1
+Added Pin To Net: NetName=NetBR1_3 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Member To Class: ClassName=U_EMI Filter Member=Component L1 8113-RC

@@ -1,0 +1,4 @@
+Added Component: Designator=L?(8113-RC)
+Added Pin To Net: NetName=EARTH Pin=L?-1
+Added Pin To Net: NetName=NetBR1_3 Pin=L?-2
+Added Member To Class: ClassName=U_EMI Filter Member=Component L? 8113-RC

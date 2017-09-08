@@ -1,0 +1,5 @@
+Added Component: Designator=R2(RES0603)
+Added Pin To Net: NetName=SW_FREQ Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Member To Class: ClassName=SS-1 Member=Component R2 CRCW060317K4FKEB
+Added Room: Name=SS-1

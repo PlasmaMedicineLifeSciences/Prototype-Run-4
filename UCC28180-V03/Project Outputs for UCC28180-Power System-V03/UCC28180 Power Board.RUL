@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\SWigh\Desktop\Generator\Altium Designer\Power Factor Correction\Prototype Run 4\UCC28180-V03\UCC28180 Power Board.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
